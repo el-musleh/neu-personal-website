@@ -1,0 +1,26 @@
+/* Table Form*/
+.color-me {
+	background-color:#cccccc;
+	text-align:center;
+	color: #123xzc;
+}
+.myTable {
+    margin: 0 auto;
+	border-collapse: collapse; 
+	text-align:center;
+	border-color: rgb(136, 136, 136); 
+	border-width: 1px;
+	background-color: #cccccc;
+}
+
+table, th, td {
+    border: 0px solid black;
+    border-collapse: collapse;
+	background-color: #cccccc;
+	text-align:center
+}
+
+.fixform {
+	width:750px;
+	height:500px;
+}

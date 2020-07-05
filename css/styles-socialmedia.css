@@ -1,0 +1,17 @@
+.sm-photo {
+	width:75px;height:75px;
+}
+
+.ul-new {
+    list-style-type: none;
+	text-align:center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	colour: #000;
+    background-color: #ccc;
+}
+
+li {
+    float: left;
+}
